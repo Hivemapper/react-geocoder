@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "xhr": "^1.17.0",
-    "babelify": "^6.0.0",
-    "react": "0.13.x"
+    "babelify": "^7.3.0",
+    "react": "15.4.1"
   }
 }
